@@ -29,8 +29,10 @@ git show HEAD                                               <= melihat perubahan
 
 
     git branch                               <= mengecek berada di branch dimana sekarang / membuat branch baru
+     git branch tangakai-fitur              <= membuat branch baru lewat terminal
     git fetch                                <=> berfungsi untuk mengambil (mengunduh) perubahan terbaru dari repository remote tanpa langsung menggabungkannya ke branch lokal.
     git checkout nama_branch                 <=> tentang lu mau pindah ke branch yang mana ?
     git branch -D Landing_page               <=> ini menghapus branch 
     git merge                                => Menyatukan Branch 
     git tag.                                 => Menandai Versi 
+    
