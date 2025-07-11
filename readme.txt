@@ -36,4 +36,4 @@ git show HEAD                                               <= melihat perubahan
     git tag.                                 => Menandai Versi 
 
 
-tes
+    tess modif kode dari teman
