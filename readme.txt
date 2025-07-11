@@ -51,4 +51,4 @@ git push origin master
 
 
     tess modif kode dari teman
->>>>>>> da39a748c788a0c65e327cd92a038354f9c00f24
+>>>>>>> da39a748c788a0c65e327cd92a038354f9c00f24gi
