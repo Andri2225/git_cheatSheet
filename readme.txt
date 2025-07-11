@@ -34,3 +34,6 @@ git show HEAD                                               <= melihat perubahan
     git branch -D Landing_page               <=> ini menghapus branch 
     git merge                                => Menyatukan Branch 
     git tag.                                 => Menandai Versi 
+
+
+tes
