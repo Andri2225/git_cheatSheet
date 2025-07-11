@@ -36,3 +36,13 @@ git show HEAD                                               <= melihat perubahan
     git merge                                => Menyatukan Branch 
     git tag.                                 => Menandai Versi 
     
+
+
+## Menyelesaikan konflik git
+ini terjadi kalau lu mau push kodingan baru ke repository dan teman teman lu juga lagi ngebuat fitur di repositorynya jadi
+
+git pull 
+git diff => lihat perubahan
+git add . => tracking perubahan
+git commit -m "fixing konflik"
+git push origin master 
