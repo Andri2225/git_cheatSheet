@@ -34,8 +34,16 @@ git show HEAD                                               <= melihat perubahan
     git checkout nama_branch                 <=> tentang lu mau pindah ke branch yang mana ?
     git branch -D Landing_page               <=> ini menghapus branch 
     git merge                                => Menyatukan Branch 
-    git tag.                                 => Menandai Versi 
-<<<<<<< HEAD
+
+## tagging 
+untuk menandari veris dari repo projekan kita
+
+    git tag -a "nama_tag"                               => Menandai Versi 
+    git tag                                             => mengecek tag
+    example :
+    git push origin master --tags                       => push tag kita ke repository
+    git tag -a "v1.0"                                   => versi 1.0
+    git tag - d "v1.0"                                  => menghapus tag
     
 
 
